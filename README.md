@@ -20,8 +20,10 @@ In assignment 1 I had already performed basic clean-up of the dataset. This mean
 In my opinion, my domain questions were answerable from the dataset and also provided very unique insights in regards to it. For that reason I'm going to go through Assignment 2 with the above domain questions. Any changes will be documented in later tasks.
 
 ## Task 2
-In the new dataset, I decided to add observation IDs for each car, in case I chose to speak about specific observations. I also added Year Start, Year End, and Estimated Year in order to make it easier to create something like a time-series and/or make it easier to encode the year-range attributes in terms a temporal manner rather than a categorical manner. Is Modified is either 0 or 1, making it easier to obtain frequencies for certain graph types. For "Pre-05" I decided to set the year start and end to 2004, and therefore the average is also 2004. This is for greater graph and chart variety and I consider it a worthy trade-off for greater visualization flexibility.
+In the new dataset, I decided to add observation IDs for each car, in case I chose to speak about specific observations. I also added Year Start, Year End, and a midpoint in order to make it easier to create something like a time-series and/or make it easier to encode the year-range attributes in terms a temporal manner rather than a categorical manner. Is Modified is either 0 or 1, making it easier to obtain frequencies for certain graph types. For "Pre-05" I decided to set the year start and end to 2004, and therefore the average is also 2004. This is for greater graph and chart variety and I consider it a worthy trade-off for greater visualization flexibility.
 
 For clarification, Cars_Alt is simply me manually undoing Excel's screw-up in regards to 10-14. It turned 10-14 into October 14 when obviously in context it means 2010-2014. The Task2 notebook uses Cars_Alt for simplicity's sake.
 - [Cleaned Dataset](CarsCleaned.csv)
 - [Task 2 Jupyter Notebook](Task2.ipynb)
+
+## Task 3
