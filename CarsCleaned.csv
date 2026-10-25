@@ -1,0 +1,161 @@
+ID,Location,Time,Date,Day_of_Week,Weather,Make,Model,Type,Color,Year_Range,Modified,Mod_Type,Class,Year Start,Year End,Estimated Year Midpoint,Is Modified
+1,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Toyota,RAV4,SUV,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+2,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Honda,CR-V,SUV,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+3,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Toyota,Camry,Sedan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+4,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Chevrolet,Equinox,Crossover,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+5,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Honda,Accord,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+6,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Ford,Escape,SUV,Blue,20-26,No,Stock,Economy,2020,2026,2023.0,0
+7,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Toyota,Corolla,Sedan,Gray,10-14,No,Stock,Economy,2010,2014,2012.0,0
+8,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Chrysler,Pacifica,Minivan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+9,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Nissan,Rogue,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+10,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Hyundai,Tucson,SUV,Black,20-26,No,Stock,Economy,2020,2026,2023.0,0
+11,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Chevrolet,Silverado 1500,Pickup,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+12,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Subaru,Outback,Crossover,Green,15-19,No,Stock,Economy,2015,2019,2017.0,0
+13,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Honda,Civic,Sedan,Black,10-14,Yes,Tint,Economy,2010,2014,2012.0,1
+14,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Kia,Sorento,SUV,Gray,20-26,No,Stock,Economy,2020,2026,2023.0,0
+15,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Toyota,Sienna,Minivan,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+16,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Ford,F-150,Pickup,Black,15-19,Yes,Wheels,Economy,2015,2019,2017.0,1
+17,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Lexus,RX,SUV,White,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+18,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Hyundai,Elantra,Sedan,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+19,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Jeep,Grand Cherokee Limited,SUV,Black,10-14,No,Stock,Economy,2010,2014,2012.0,0
+20,Walmart,10:15 AM,21-Sep,Monday,Partly Cloudy,Mazda,CX-5,SUV,Red,20-26,Yes,Tint,Luxury,2020,2026,2023.0,1
+21,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Honda,Civic,SUV,Gray,20-26,No,Stock,Economy,2020,2026,2023.0,0
+22,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Toyota,Prius,Hatchback,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+23,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Kia,Sorento,SUV,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+24,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Ford,Fusion,Sedan,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+25,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Nissan,Altima,Sedan,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+26,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,GMC,Terrain,SUV,Red,20-26,No,Stock,Economy,2020,2026,2023.0,0
+27,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Volkswagen,Jetta,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+28,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Dodge,Grand Caravan,Minivan,White,10-14,No,Stock,Economy,2010,2014,2012.0,0
+29,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Hyundai,Santa Fe,SUV,Black,20-26,No,Stock,Economy,2020,2026,2023.0,0
+30,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Subaru,Forester,SUV,Green,15-19,No,Stock,Economy,2015,2019,2017.0,0
+31,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Chevrolet,Malibu,Sedan,Blue,20-26,No,Stock,Economy,2020,2026,2023.0,0
+32,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Ram,1500,Pickup,Black,15-19,Yes,Wheels,Economy,2015,2019,2017.0,1
+33,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Acura,MDX,SUV,Orange,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+34,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,BMW,330i,Sedan,Black,20-26,No,Stock,Luxury,2020,2026,2023.0,0
+35,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Dodge,Challenger,Coupe,Red,15-19,Yes,Exhaust,Performance,2015,2019,2017.0,1
+36,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Ford,Mustang,Coupe,Blue,Pre 05,Yes,Multiple,Performance,2004,2004,2004.0,1
+37,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Toyota,Highlander,SUV,Silver,20-26,No,Stock,Economy,2020,2026,2023.0,0
+38,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Honda,Odyssey,Minivan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+39,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Mazda,3,Hatchback,Red,20-26,No,Stock,Economy,2020,2026,2023.0,0
+40,Walmart,3:15 PM,22-Sep,Tuesday,Sunny,Honda,Civic,Sedan,Silver,Pre 05,No,Stock,Economy,2004,2004,2004.0,0
+41,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Honda,Civic,Sedan,Black,20-26,Yes,Tint,Economy,2020,2026,2023.0,1
+42,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Toyota,RAV4,SUV,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+43,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,BMW,3 Series,Sedan,Gray,10-14,No,Stock,Luxury,2010,2014,2012.0,0
+44,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Ford,Mustang,Coupe,Blue,15-19,Yes,Exhaust,Performance,2015,2019,2017.0,1
+45,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Toyota,Camry,Sedan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+46,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Honda,CR-V,SUV,Gray,20-26,No,Stock,Economy,2020,2026,2023.0,0
+47,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Hyundai,Elantra,Sedan,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+48,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Subaru,WRX,Sedan,Black,15-19,Yes,Wheels,Performance,2015,2019,2017.0,1
+49,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Nissan,Rogue,SUV,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+50,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Toyota,Corolla,Sedan,Red,05-09,No,Stock,Economy,2005,2009,2007.0,0
+51,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Jeep,Grand Cherokee,SUV,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+52,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Chevrolet,Malibu,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+53,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Acura,TLX,Sedan,Black,20-26,No,Stock,Luxury,2020,2026,2023.0,0
+54,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Ford,F-150,Pickup,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+55,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Mazda,CX-5,SUV,Blue,20-26,No,Stock,Economy,2020,2026,2023.0,0
+56,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Volkswagen,GTI,Hatchback,Gray,15-19,Yes,Wheels,Performance,2015,2019,2017.0,1
+57,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Kia,Sportage,SUV,Silver,20-26,No,Stock,Economy,2020,2026,2023.0,0
+58,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Honda,Accord,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+59,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Chevrolet,Equinox,Crossover,Black,10-14,No,Stock,Economy,2010,2014,2012.0,0
+60,VASA Fitness,10:00 AM,28-Sep,Monday,Sunny,Lexus,RX,SUV,Silver,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+61,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Honda,Civic,Sedan,Black,15-19,Yes,Tint,Economy,2015,2019,2017.0,1
+62,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,Camry,Sedan,White,10-14,No,Stock,Economy,2010,2014,2012.0,0
+63,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,BMW,4 Series,Coupe,Gray,20-26,No,Stock,Luxury,2020,2026,2023.0,0
+64,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Ford,Mustang,Coupe,Red,20-26,Yes,Exhaust,Performance,2020,2026,2023.0,1
+65,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Honda,CR-V,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+66,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Hyundai,Elantra,Sedan,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+67,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Subaru,WRX,Sedan,Black,15-19,Yes,Wheels,Performance,2015,2019,2017.0,1
+68,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,RAV4,SUV,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+69,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Chevrolet,Malibu,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+70,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Volkswagen,GTI,Hatchback,Black,20-26,Yes,Wheels,Performance,2020,2026,2023.0,1
+71,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Nissan,Rogue,SUV,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+72,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Acura,TLX,Sedan,White,20-26,No,Stock,Luxury,2020,2026,2023.0,0
+73,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Dodge,Charger,Sedan,Black,15-19,Yes,Tint,Performance,2015,2019,2017.0,1
+74,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Mazda,CX-5,SUV,Red,20-26,No,Stock,Economy,2020,2026,2023.0,0
+75,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Honda,Accord,Sedan,Gray,05-09,No,Stock,Economy,2005,2009,2007.0,0
+76,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Lexus,IS,Sedan,Blue,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+77,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Kia,K5,Sedan,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+78,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Ford,F-150,Pickup,Black,20-26,No,Stock,Economy,2020,2026,2023.0,0
+79,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Mercedes-Benz,C-Class,Sedan,Silver,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+80,VASA Fitness,3:00 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,Corolla,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+81,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Ford,Escape,SUV,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+82,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Honda,Accord,Sedan,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+83,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Toyota,Camry,Sedan,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+84,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Nissan,Altima,Sedan,Yellow,Pre 05,No,Stock,Economy,2004,2004,2004.0,0
+85,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Honda,CR-V,SUV,Gray,10-14,No,Stock,Economy,2010,2014,2012.0,0
+86,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Chevrolet,Equinox,Crossover,White,10-14,No,Stock,Economy,2010,2014,2012.0,0
+87,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Toyota,Corolla,Sedan,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+88,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Hyundai,Sonata,Sedan,Black,15-19,Yes,Multiple,Economy,2015,2019,2017.0,1
+89,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Ford,Fusion,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+90,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Jeep,Grand Cherokee,SUV,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+91,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Honda,Civic,Sedan,Gray,20-26,No,Stock,Economy,2020,2026,2023.0,0
+92,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Toyota,RAV4,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+93,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Nissan,Rogue,SUV,Red,15-19,No,Stock,Economy,2015,2019,2017.0,0
+94,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Chevrolet,Malibu,Sedan,Black,05-09,No,Stock,Economy,2005,2009,2007.0,0
+95,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Kia,Optima SXL,Sedan,Orange,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+96,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Kia,Forte,Sedan,Red,20-26,No,Stock,Economy,2020,2026,2023.0,0
+97,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Toyota,Camry,Sedan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+98,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Jeep,Grand Cherokee,SUV,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+99,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Subaru,Outback,SUV,Green,20-26,No,Stock,Economy,2020,2026,2023.0,0
+100,Aldi's,3:30 PM,26-Sep,Saturday,Sunny,Ford,F-150,Pickup,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+101,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Honda,CR-V,SUV,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+102,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Ford,Escape,SUV,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+103,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Jeep,Grand Cherokee,SUV,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+104,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Hyundai,Sonata,Sedan,Silver,20-26,No,Stock,Economy,2020,2026,2023.0,0
+105,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Hyundai,Elantra,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+106,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Chevrolet,Malibu,Sedan,Gray,15-19,Yes,Wheels,Economy,2015,2019,2017.0,1
+107,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Kia,Optima,Sedan,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+108,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Volkswagen,Jetta,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+109,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Mazda,CX-30,SUV,Blue,20-26,No,Stock,Economy,2020,2026,2023.0,0
+110,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Subaru,Outback,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+111,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Toyota,Highlander,SUV,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+112,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Ford,Explorer,SUV,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+113,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Chevrolet,Traverse,SUV,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+114,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Dodge,Charger,Sedan,Red,15-19,Yes,Exhaust,Performance,2015,2019,2017.0,1
+115,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Chrysler,300,Sedan,Black,15-19,Yes,Spoiler,Luxury,2015,2019,2017.0,1
+116,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Lexus,RX,SUV,White,20-26,No,Stock,Luxury,2020,2026,2023.0,0
+117,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Acura,MDX,SUV,Gray,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+118,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,GMC,Terrain,SUV,Black,20-26,No,Stock,Economy,2020,2026,2023.0,0
+119,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Kia,Sorento,SUV,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+120,Aldi's,10:00 AM,27-Sep,Sunday,Sunny,Hyundai,Santa Fe,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+121,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Honda,Fit,Hatchback,Blue,10-14,No,Stock,Economy,2010,2014,2012.0,0
+122,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Nissan,Altima,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+123,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Toyota,Camry,Sedan,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+124,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Honda,Civic,Sedan,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+125,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Honda,Accord,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+126,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Toyota,Corolla,Sedan,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+127,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Chevrolet,Malibu,Sedan,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+128,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Hyundai,Elantra,Sedan,Gray,10-14,No,Stock,Economy,2010,2014,2012.0,0
+129,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Ford,Fusion,Sedan,Black,15-19,Yes,Tint,Economy,2015,2019,2017.0,1
+130,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Toyota,RAV4,SUV,White,20-26,No,Stock,Economy,2020,2026,2023.0,0
+131,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Honda,CR-V,SUV,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+132,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Ford,Escape,SUV,Red,10-14,No,Stock,Economy,2010,2014,2012.0,0
+133,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Nissan,Rogue,SUV,Blue,15-19,No,Stock,Economy,2015,2019,2017.0,0
+134,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Chevrolet,Equinox,SUV,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+135,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Jeep,Grand Cherokee,SUV,Yellow,20-26,No,Stock,Economy,2020,2026,2023.0,0
+136,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Toyota,Sienna,Minivan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+137,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Honda,Odyssey,Minivan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+138,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Chevrolet,Silverado,Pickup,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+139,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Ford,F-150,Pickup,Red,10-14,No,Stock,Economy,2010,2014,2012.0,0
+140,IEC Community Center,10:00 AM,28-Sep,Monday,Sunny,Kia,Soul,Hatchback,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+141,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Mercedes-Benz,C-Class,Sedan,Blue,15-19,Yes,Multiple,Luxury,2015,2019,2017.0,1
+142,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Subaru,Outback,SUV,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+143,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Kia,Sorento,SUV,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+144,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Hyundai,Santa Fe,SUV,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+145,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,Sienna,Minivan,Silver,10-14,No,Stock,Economy,2010,2014,2012.0,0
+146,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Acura,MDX,SUV,Red,15-19,Yes,Tint,Luxury,2015,2019,2017.0,1
+147,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Nissan,Altima,Sedan,Gray,15-19,No,Stock,Economy,2015,2019,2017.0,0
+148,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,Corolla,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+149,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Honda,Civic,Sedan,Black,10-14,No,Stock,Economy,2010,2014,2012.0,0
+150,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Ford,Fusion,Sedan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+151,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Chrysler,300,Sedan,Black,15-19,No,Stock,Luxury,2015,2019,2017.0,0
+152,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Hyundai,Sonata,Sedan,White,15-19,No,Stock,Economy,2015,2019,2017.0,0
+153,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Hyundai,Elantra,Sedan,Silver,15-19,Yes,Wheels,Economy,2015,2019,2017.0,1
+154,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Kia,Optima,Sedan,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+155,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,BMW,3 Series,Coupe,Blue,20-26,Yes,LEDs,Luxury,2020,2026,2023.0,1
+156,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Lexus,RX,SUV,White,10-14,No,Stock,Luxury,2010,2014,2012.0,0
+157,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Chevrolet,Corvette,Coupe,Red,15-19,Yes,Exhaust,Performance,2015,2019,2017.0,1
+158,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Ford,F-150,Pickup,Black,15-19,No,Stock,Economy,2015,2019,2017.0,0
+159,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Toyota,Camry,Sedan,Silver,15-19,No,Stock,Economy,2015,2019,2017.0,0
+160,IEC Community Center,3:45 PM,29-Sep,Tuesday,Partly Cloudy,Dodge,Charger,Sedan,Red,15-19,No,Stock,Performance,2015,2019,2017.0,0
