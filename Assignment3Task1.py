@@ -3,7 +3,7 @@ from plotly.express import *
 from plotly.graph_objects import Heatmap, Figure
 from plotly.subplots import make_subplots
 
-cars = pd.read_csv("C:\\Users\\auon1\\OneDrive\\Documents\\cs424-Assignment-2\\CS-424-Assignment-2-AuonNaqvi\\Assignment2\\CarsCleaned.csv")
+cars = pd.read_csv("C:\\Users\\auon1\\Documents\\CS424Assignment2\\CS-424-Assignment-2-AuonNaqvi\\Assignment2\\CarsCleaned.csv")
 print(cars["Modified"].value_counts())
 
 yearRange = ["Pre 05", "05-09", "10-14", "15-19", "20-26"]
@@ -79,7 +79,7 @@ carMods.update_layout(title="Car Mods (" + str(len(cars)) + " cars observed)",
                       showlegend=False)
 
 # Plotly was trying to read 05-09 and 10-14 as dates.
-carMods.update_xaxes(type="category", title_text="Vehicle class",
+carMods.update_xaxes(type="category", title_text="Car class",
                      categoryorder="array", categoryarray=carClassList,
                      range=[-.5, 2.5], fixedrange=True, row=1, col=2)
 carMods.update_yaxes(type="category", title_text="Estimated year range",
@@ -116,7 +116,7 @@ for i, option in enumerate(options):
 
 carMods.update_layout(updatemenus=[dict(buttons=buttons, type="dropdown",
                                         x=.12, y=1.17, xanchor="left", yanchor="top")])
-carMods.add_annotation(text="Vehicle class:", x=0, y=1.15,
+carMods.add_annotation(text="Car class:", x=0, y=1.15,
                        xref="paper", yref="paper", xanchor="left", showarrow=False)
 carMods.write_html("interactiveVis.html", include_plotlyjs=True,
                    config={"displayModeBar": False, "scrollZoom": False})
